@@ -1,0 +1,13 @@
+Experience with installation and configuration of Kubernetes, clustering them and managed local deployments in Kubernetes.
+Experience in build and release automation of Java, Oracle ADF, Oracle Weblogic, Oracle SOA based applications.
+Experience administration and development with Hudson, Jenkins, and Bamboo.
+Experience in setting up Autosys jobs to monitor files and to run the processing shell script.
+Experience in working with build pipelines, ANT scripts, MAVEN, XCODE and Shell.
+Experience in working with Code coverage tools Java Jacoco source code analyzer
+Experience in working with version control tools – SVN, GIT, Perforce, Clear Case, Mercurial
+Experience with various ITIL process­­es – Incident, Problem, Change management tools
+Experience with Weblogic, JBOSS, Web Sphere, Tomcat application servers
+Experience in creating users, groups, Data Sources, JMS Sources in Web logic
+Experience in working with Cloud platforms –Amazon AWS, Microsoft Azure
+Experience in working with Puppet Master, Puppet agents, Manifests for SCM
+Experience with Setting up Chef infrastructure, Chef-repo and Boot strapping chef nodes
